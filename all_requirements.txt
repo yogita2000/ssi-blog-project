@@ -1,3 +1,5 @@
+#django requirements
+
 asgiref==3.4.1
 Django==3.2.8
 pytz==2021.3
